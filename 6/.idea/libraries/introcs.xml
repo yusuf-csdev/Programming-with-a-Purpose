@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="introcs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/introcs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/stdlib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/src/introcs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/stdlib.jar!/" />
+    </SOURCES>
+  </library>
+</component>
